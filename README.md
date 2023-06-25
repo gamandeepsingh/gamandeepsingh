@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gamandeepsingh4" target="blank"><img src="https://img.shields.io/twitter/follow/gamandeepsingh4?logo=twitter&style=for-the-badge" alt="@gamandeepsingh4" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **WEB-Developing**
 
