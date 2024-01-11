@@ -1,22 +1,20 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 [![An image of @gamandeepsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamandeepsingh)](https://holopin.io/@gamandeepsingh)
 <h1 align="center">Hi 👋, I'm Gamandeep Singh</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
-
-
+<h3 align="center">A passionate <b>MERN Stack Developer</b> from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamandeepsingh" alt="gamandeepsingh" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **WEB-Developing**
 
 - 📫 How to reach me **gamandeepsingh4@gmail.com**
 
-- ⚡ Fun fact **A shrimp's heart is in its head.**
+- ⚡ Fun fact **It's so funny! yay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
