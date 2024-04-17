@@ -1,5 +1,4 @@
 
-[![MasterHead]
 [![An image of @gamandeepsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamandeepsingh)](https://holopin.io/@gamandeepsingh)
 <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="100%" height="80%" >
 <h1 align="center">Hi 👋, I'm Gamandeep Singh</h1>
