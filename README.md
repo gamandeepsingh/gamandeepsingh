@@ -1,13 +1,13 @@
 
 [![An image of @gamandeepsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamandeepsingh)](https://holopin.io/@gamandeepsingh)
-<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="100%" height="80%" >
+
 <h1 align="center">Hi 👋, I'm Gamandeep Singh</h1>
 <h3 align="center">A passionate <b>MERN Stack Developer</b> from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamandeepsingh&theme=tokyonight" alt="gamandeepsingh" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
+
+<img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
 
 - 🌱 I’m currently learning **NodeJS**
 
@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **It's so funny! yay.**
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gamandeepsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamandeepsingh4" height="30" width="40" /></a>
@@ -26,6 +27,8 @@
 <a href="https://www.leetcode.com/theghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theghost" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gamandeeosrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gamandeeosrt" height="30" width="40" /></a>
 </p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamandeepsingh&theme=dracula&column=6&margin-w=15&margin-h=15" alt="gamandeepsingh" /></a></p>
 <br/>
 <br/>
 <h3 align="center"><b>Languages and Tools:</b></h3>
@@ -52,8 +55,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <br/>
+ <table align="center">
+   <tr>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamandeepsingh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    </tr> 
+    <tr>
+       <centre><td>
+         <a href="https://github.com/gamandeepsingh/github-readme-activity-graph#gh-light-mode-only">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gamandeepsingh&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+         </a>
+     </td></centre>
+   </td>
+   </tr>
+ </table>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gamandeepsingh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gamandeepsingh" /></p>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamandeepsingh&theme=tokyonight&show_icons=true&locale=en" alt="gamandeepsingh" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamandeepsingh&theme=tokyonight" alt="gamandeepsingh" /></p>
