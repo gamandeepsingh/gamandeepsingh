@@ -60,6 +60,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 <br/>
+<!-- Chart -->
  <table align="center">
    <tr>
      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamandeepsingh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -73,5 +74,14 @@
    </td>
    </tr>
  </table>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gamandeepsingh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gamandeepsingh" /></p>
+ </br>
+ </br>
+<!-- Top Languages -->
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamandeepsingh&show_icons=true&theme=monokai&locale=en&layout=compact" alt="gamandeepsingh" width="300"/>
+</p>
+<!-- Commits stats -->
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gamandeepsingh&show_icons=true&line_height=25&count_private=true&theme=monokai" alt="gamandeepsingh" width="400" />
+</p>
 <br/>
