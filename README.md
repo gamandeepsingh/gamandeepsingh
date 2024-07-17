@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **WEB-Developing**
 
