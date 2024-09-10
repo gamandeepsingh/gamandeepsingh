@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/gamandeep-singh-344001256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamandeep-singh-344001256" height="30" width="40" /></a>
 <a href="https://instagram.com/gamandeep.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamandeep.s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gamandeep singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gamandeep singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theghost" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gamandeepsingh4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theghost" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gamandeeosrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gamandeeosrt" height="30" width="40" /></a>
 </p>
 
