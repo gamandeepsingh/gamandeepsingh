@@ -11,9 +11,9 @@
 
 <img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **WEB3**
 
-- 💬 Ask me about **WEB-Developing**
+- 💬 Ask me about **WEB Development**
 
 - 📫 How to reach me **gamandeepsingh6@gmail.com**
 
@@ -24,7 +24,6 @@
 <p align="left">
 <a href="https://twitter.com/gamandeepsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamandeepsingh4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gamandeep-singh-344001256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamandeep-singh-344001256" height="30" width="40" /></a>
-<a href="https://instagram.com/gamandeep.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamandeep.s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gamandeep singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gamandeep singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/gamandeepsingh4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theghost" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gamandeeosrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gamandeeosrt" height="30" width="40" /></a>
