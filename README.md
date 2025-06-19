@@ -74,13 +74,22 @@
    </tr>
  </table>
  </br>
+ <br>
+
+
+## A more detailed graph of my contributions over the past year 📈
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![GitHub stats](https://raw.githubusercontent.com/gamandeepsingh/gamandeepsingh/main/profile-3d-contrib/profile-night-green.svg)
+
+<br>
  </br>
 <!-- Top Languages -->
-<p align="center">
+<!-- <p align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamandeepsingh&show_icons=true&theme=monokai&locale=en&layout=compact" alt="gamandeepsingh" width="300"/>
-</p>
+</p> -->
 <!-- Commits stats -->
-<p align="center">
+<!-- <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gamandeepsingh&show_icons=true&line_height=25&count_private=true&theme=monokai" alt="gamandeepsingh" width="400" />
 </p>
-<br/>
+<br/> -->
