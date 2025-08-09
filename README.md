@@ -28,6 +28,7 @@
 ### Developer Tools & Security
 - [Storenv](https://github.com/gamandeepsingh/storenv) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption
 - [PRISTINE UI](https://www.pristineui.com/) - React component library for streamlined UI development with Tailwind CSS integration
+- [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
 ### Freelance Projects
 - [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
