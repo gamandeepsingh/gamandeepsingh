@@ -8,18 +8,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
-
 <img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
 
-- 🌱 I’m currently learning **WEB3**
-
+- 🌱 I'm currently learning **WEB3**
 - 💬 Ask me about **WEB Development**
-
 - 📫 How to reach me **gamandeepsingh6@gmail.com**
+- ⚡ Fun Fact: This hits harder than a 100x on a meme coin! 📈
 
-- ⚡ Fun fact **It's so funny! yay.**
+# Showcase : )
 
- 
+### Full-Stack Applications
+- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
+- [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
+- [ListerJI](https://www.listerji.com/) - MERN-based product listing platform with advanced filtering and search
+- [Paybursement](https://github.com/gamandeepsingh/paybursement) - Next.js-based expense reimbursement platform with automated workflows
+- [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
+- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
+
+### Developer Tools & Security
+- [Storenv](https://github.com/gamandeepsingh/storenv) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption
+- [PRISTINE UI](https://www.pristineui.com/) - React component library for streamlined UI development with Tailwind CSS integration
+
+### Freelance Projects
+- [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
+- [Jaagran Patra]([https://github.com/gamandeepsingh/jaagran-patra](https://jaagran-patra.vercel.app/)) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
+
+### Event Platforms & Community
+- [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
+- [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
+- [Pristine Creatives](https://pristine-weld.vercel.app/) - React&GSAP-based MVP websites with optimized performance and modern UI/UX
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gamandeepsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamandeepsingh4" height="30" width="40" /></a>
@@ -31,51 +49,6 @@
 
 <br/>
 <br/>
-<h3 align="center"><b>Stats:</b></h3>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamandeepsingh&theme=dracula&column=6&margin-w=15&margin-h=15" alt="gamandeepsingh" /></a></p>
-<br/>
-<br/>
-<h3 align="center"><b>Languages and Tools:</b></h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-</div>
-<br/>
-<!-- Chart -->
- <table align="center">
-   <tr>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamandeepsingh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-    </tr> 
-    <tr>
-       <centre><td>
-         <a href="https://github.com/gamandeepsingh/github-readme-activity-graph#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gamandeepsingh&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-         </a>
-     </td></centre>
-   </td>
-   </tr>
- </table>
- </br>
- <br>
-
 
 ## A more detailed graph of my contributions over the past year 📈
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,12 +57,3 @@
 
 <br>
  </br>
-<!-- Top Languages -->
-<!-- <p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamandeepsingh&show_icons=true&theme=monokai&locale=en&layout=compact" alt="gamandeepsingh" width="300"/>
-</p> -->
-<!-- Commits stats -->
-<!-- <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gamandeepsingh&show_icons=true&line_height=25&count_private=true&theme=monokai" alt="gamandeepsingh" width="400" />
-</p>
-<br/> -->
