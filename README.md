@@ -31,7 +31,7 @@
 
 ### Freelance Projects
 - [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
-- [Jaagran Patra]([https://github.com/gamandeepsingh/jaagran-patra](https://jaagran-patra.vercel.app/)) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
+- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
 
 ### Event Platforms & Community
 - [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
