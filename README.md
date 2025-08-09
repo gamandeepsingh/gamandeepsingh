@@ -15,7 +15,7 @@
 - 📫 How to reach me **gamandeepsingh6@gmail.com**
 - ⚡ Fun Fact: This hits harder than a 100x on a meme coin! 📈
 
-# Showcase : )
+# My Creations 🎨
 
 ### Full-Stack Applications
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
