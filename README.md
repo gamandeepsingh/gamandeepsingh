@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **WEB3**
 - 💬 Ask me about **WEB Development**
 - 📫 How to reach me **gamandeepsingh6@gmail.com**
-- ⚡ Fun Fact: This hits harder than a 100x on a meme coin! 📈
+- ⚡ Fun Fact: Decentralize everything, even my chai☕
 
 # My Creations 🎨
 
