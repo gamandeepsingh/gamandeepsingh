@@ -26,6 +26,7 @@
 - [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
 
 ### Developer Tools & Security
+- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
 - [Storenv](https://github.com/gamandeepsingh/storenv) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption
 - [PRISTINE UI](https://www.pristineui.com/) - React component library for streamlined UI development with Tailwind CSS integration
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
