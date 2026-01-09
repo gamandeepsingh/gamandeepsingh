@@ -1,19 +1,7 @@
 [![An image of @gamandeepsingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamandeepsingh)](https://holopin.io/@gamandeepsingh)
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><b> &nbsp; Welcome to my GitHub &nbsp;</b> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
- </p>
-
-<h1 align="center">👋<b>Hi, I'm Gamandeep Singh</b></h1>
-<h3 align="center">A passionate <b>MERN Stack Developer</b> from India!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
 <img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
-
-- 🌱 I'm currently learning **WEB3**
-- 💬 Ask me about **WEB Development**
-- 📫 How to reach me **gamandeepsingh6@gmail.com**
-- ⚡ Fun Fact: Decentralize everything, even my chai☕
 
 # My Creations 🎨
 
