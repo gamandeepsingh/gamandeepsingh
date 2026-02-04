@@ -6,6 +6,7 @@
 # My Creations 🎨
 
 ### Full-Stack Applications
+- [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
 - [ListerJI](https://www.listerji.com/) - MERN-based product listing platform with advanced filtering and search
