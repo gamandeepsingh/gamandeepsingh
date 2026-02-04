@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
-<img align="right" alt="Coding" width="400" margin="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"> 
+<img align="right" alt="Coding" width="400" margin="200" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png"> 
 
 # My Creations 🎨
 
