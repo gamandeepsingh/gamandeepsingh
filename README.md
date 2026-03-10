@@ -6,6 +6,7 @@
 # My Creations 🎨
 
 ### Full-Stack Applications
+- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence.
 - [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
@@ -21,6 +22,7 @@
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
 ### Freelance Projects
+- [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
 - [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
 - [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
 
@@ -29,6 +31,9 @@
 - [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
 - [Pristine Creatives](https://pristine-weld.vercel.app/) - React&GSAP-based MVP websites with optimized performance and modern UI/UX
 
+### Designs
+- [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
+- [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
 
 <br/>
 <br/>
