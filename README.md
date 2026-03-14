@@ -6,19 +6,19 @@
 # My Creations 🎨
 
 ### Full-Stack Applications
-- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence.
+- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
 - [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
-- [ListerJI](https://www.listerji.com/) - MERN-based product listing platform with advanced filtering and search
-- [Paybursement](https://github.com/gamandeepsingh/paybursement) - Next.js-based expense reimbursement platform with automated workflows
+- [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
+- [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
 - [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
 - [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
 
 ### Developer Tools & Security
 - [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
-- [Storenv](https://github.com/gamandeepsingh/storenv) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption
-- [PRISTINE UI](https://www.pristineui.com/) - React component library for streamlined UI development with Tailwind CSS integration
+- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
+- [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
 ### Freelance Projects
@@ -29,7 +29,6 @@
 ### Event Platforms & Community
 - [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
 - [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
-- [Pristine Creatives](https://pristine-weld.vercel.app/) - React&GSAP-based MVP websites with optimized performance and modern UI/UX
 
 ### Designs
 - [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
