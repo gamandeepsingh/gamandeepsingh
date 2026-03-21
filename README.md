@@ -16,6 +16,7 @@
 - [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
 
 ### Developer Tools & Security
+- [SOLAI Wallet](https://github.com/gamandeepsingh/solai) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions
 - [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
 - [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
