@@ -34,7 +34,7 @@
 ### Designs
 - [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
 - [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
-
+- [VAYU](http://vayu.to/) - VAYU Airways Pvt Ltd MVP website
 <br/>
 <br/>
 
