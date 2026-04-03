@@ -7,18 +7,18 @@
 
 ### Full-Stack Applications
 - [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
-- [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
+- [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders [repo](https://github.com/gamandeepsingh/superteam).
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
 - [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
 - [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
 - [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
-- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
+- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members []()
 
 ### Developer Tools & Security
-- [SOLAI Wallet](https://github.com/gamandeepsingh/solai) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions
-- [QuickCache](https://github.com/gamandeepsingh/quickcache) ⭐️ - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST.
-- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
+- [SOLAI Wallet](https://solai.gamandeep.xyz) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions [repo](https://github.com/gamandeepsingh/solai).
+- [QuickCache](https://crates.io/crates/quickcache) ⭐️ - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST [repo](https://github.com/gamandeepsingh/quickcache).
+- [Solana Pay Widget](https://www.npmjs.com/package/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain [repo](https://github.com/gamandeepsingh/solana-pay-widget).
 - [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
@@ -26,7 +26,7 @@
 ### Freelance Projects
 - [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
 - [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
-- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
+- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards [repo](https://github.com/gamandeepsingh/jaagran-patra).
 
 ### Event Platforms & Community
 - [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
