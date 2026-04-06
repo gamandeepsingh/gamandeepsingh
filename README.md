@@ -18,6 +18,7 @@
 ### Developer Tools & Security
 - [SOLAI Wallet](https://solai.gamandeep.xyz) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions [repo](https://github.com/gamandeepsingh/solai).
 - [QuickCache](https://crates.io/crates/quickcache) ⭐️ - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST [repo](https://github.com/gamandeepsingh/quickcache).
+- [Solana Indexer](https://medium.com/@gamandeepsingh4/building-a-real-time-solana-indexer-in-rust-a-complete-guide-edcf64119691) ⭐️ - A real-time Solana indexer built in Rust that streams, processes, and stores ~3,000+ txns/sec using gRPC, batching, and async workers for scalable analytics [repo](https://github.com/gamandeepsingh/Solana-Indexer-rs).
 - [Solana Pay Widget](https://www.npmjs.com/package/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain [repo](https://github.com/gamandeepsingh/solana-pay-widget).
 - [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
