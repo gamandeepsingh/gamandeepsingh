@@ -16,12 +16,12 @@
 - [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members []()
 
 ### Developer Tools & Security
-- [SOLAI Wallet](https://solai.website) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions [repo](https://github.com/gamandeepsingh/solai).
-- [QuickCache](https://crates.io/crates/quickcache) ⭐️ - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST [repo](https://github.com/gamandeepsingh/quickcache).
-- [Solana Indexer](https://medium.com/@gamandeepsingh4/building-a-real-time-solana-indexer-in-rust-a-complete-guide-edcf64119691) ⭐️ - A real-time Solana indexer built in Rust that streams, processes, and stores ~6,000+ txns/sec using gRPC, batching, and async workers for scalable analytics [repo](https://github.com/gamandeepsingh/Solana-Indexer-rs).
+- [SOLAI Wallet](https://solai.website) - An AI-powered crypto wallet that turns natural language commands into on-chain actions [repo](https://github.com/gamandeepsingh/solai) - <strong>won $200 grant</strong>.
+- [QuickCache](https://crates.io/crates/quickcache) - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST [repo](https://github.com/gamandeepsingh/quickcache).
+- [Solana Indexer](https://medium.com/@gamandeepsingh4/building-a-real-time-solana-indexer-in-rust-a-complete-guide-edcf64119691) 30+⭐️ - A real-time Solana indexer built in Rust that streams, processes, and stores ~6,000+ txns/sec using gRPC, batching, and async workers for scalable analytics [repo](https://github.com/gamandeepsingh/Solana-Indexer-rs).
 - [CLOB Rust](https://github.com/gamandeepsingh/clob-rs) - High-performance Central Limit Order Book exchange engine written in Rust with WebSocket streaming, PostgreSQL persistence, and optional Solana on-chain recording.
 - [Solana Pay Widget](https://www.npmjs.com/package/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain [repo](https://github.com/gamandeepsingh/solana-pay-widget).
-- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
+- [Storenv](https://storenv.vercel.app/) 10+⭐️ - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
