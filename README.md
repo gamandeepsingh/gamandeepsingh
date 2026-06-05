@@ -8,8 +8,8 @@
 ### Full-Stack Applications
 - [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
 - [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders [repo](https://github.com/gamandeepsingh/superteam).
-- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
+- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
 - [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
 - [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
@@ -18,7 +18,8 @@
 ### Developer Tools & Security
 - [SOLAI Wallet](https://solai.website) ⭐️ - An AI-powered crypto wallet that turns natural language commands into on-chain actions [repo](https://github.com/gamandeepsingh/solai).
 - [QuickCache](https://crates.io/crates/quickcache) ⭐️ - A lightweight in-memory LRU cache with per-entry TTL expiry using RUST [repo](https://github.com/gamandeepsingh/quickcache).
-- [Solana Indexer](https://medium.com/@gamandeepsingh4/building-a-real-time-solana-indexer-in-rust-a-complete-guide-edcf64119691) ⭐️ - A real-time Solana indexer built in Rust that streams, processes, and stores ~3,000+ txns/sec using gRPC, batching, and async workers for scalable analytics [repo](https://github.com/gamandeepsingh/Solana-Indexer-rs).
+- [Solana Indexer](https://medium.com/@gamandeepsingh4/building-a-real-time-solana-indexer-in-rust-a-complete-guide-edcf64119691) ⭐️ - A real-time Solana indexer built in Rust that streams, processes, and stores ~6,000+ txns/sec using gRPC, batching, and async workers for scalable analytics [repo](https://github.com/gamandeepsingh/Solana-Indexer-rs).
+- [CLOB Rust](https://github.com/gamandeepsingh/clob-rs) - High-performance Central Limit Order Book exchange engine written in Rust with WebSocket streaming, PostgreSQL persistence, and optional Solana on-chain recording.
 - [Solana Pay Widget](https://www.npmjs.com/package/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain [repo](https://github.com/gamandeepsingh/solana-pay-widget).
 - [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
