@@ -3,6 +3,10 @@
 
 <img align="right" alt="Coding" width="400" margin="200" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png"> 
 
+<a href="https://gist.github.com/gamandeepsingh/4c3edb42d3dff54ecf9c5e47e59ca79d#-open-source-contributions">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributions-39D353?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
 # My Creations 🎨
 
 ### Full-Stack Applications
